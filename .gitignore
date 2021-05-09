@@ -1,3 +1,5 @@
 /icons
 /models
 /node_modules
+/build
+.env
